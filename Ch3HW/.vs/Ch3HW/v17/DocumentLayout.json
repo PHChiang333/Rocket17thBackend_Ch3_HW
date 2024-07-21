@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\OneDrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\Rocket17thBackend_Ch3_HW\\Ch3HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{092F0E32-D86F-48F3-8411-476847EE7032}|Ch3HW\\Ch3HW.csproj|c:\\users\\frank\\onedrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\rocket17thbackend_ch3_hw\\ch3hw\\ch3hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092F0E32-D86F-48F3-8411-476847EE7032}|Ch3HW\\Ch3HW.csproj|solutionrelative:ch3hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\Rocket17thBackend_Ch3_HW\\Ch3HW\\Ch3HW\\Program.cs",
+              "RelativeDocumentMoniker": "Ch3HW\\Program.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\Rocket17thBackend_Ch3_HW\\Ch3HW\\Ch3HW\\Program.cs",
+              "RelativeToolTip": "Ch3HW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:09:37.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
