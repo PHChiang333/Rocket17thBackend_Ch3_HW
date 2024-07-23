@@ -1,0 +1,7 @@
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\bin\Debug\Ch3HW.exe.config
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\bin\Debug\Ch3HW.exe
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\bin\Debug\Ch3HW.pdb
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\obj\Debug\Ch3HW.csproj.AssemblyReference.cache
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\obj\Debug\Ch3HW.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\obj\Debug\Ch3HW.exe
+C:\Users\frank\OneDrive\桌面\火箭隊17th\backend\hw\Rocket17thBackend_Ch3_HW\Ch3HW\Ch3HW\obj\Debug\Ch3HW.pdb
